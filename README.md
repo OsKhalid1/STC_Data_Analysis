@@ -91,6 +91,7 @@ This project helped me improve my practical skills in data analysis and strength
 - Visualizations
 - Final analysis results
 
+[STC_Report.pdf](https://drive.google.com/file/d/1Mq2E_krBs0pKMi6jubQmgzIW5KZRB_3f/view)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16LVkT8IrAKaZS6qSRSvIV1J-2Zm5-ehx)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bOcJX3HRCaomFjy_fNmYl6GS71f1aDBZ)
